@@ -1,0 +1,6 @@
+pytelegrambotapi
+pyodbc
+pandas
+openpyxl
+reportlab
+pillow
